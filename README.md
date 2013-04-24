@@ -21,3 +21,5 @@ You can see a picture of this on the Wikipedia page for DNA. The two strands in 
 Terminology in this handout
 
 A DNA sequence is a sequence of nucleotides, such as TCATGT.
+
+I solved all the required functions for this assignment.
